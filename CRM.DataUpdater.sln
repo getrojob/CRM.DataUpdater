@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31512.422
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRM.DataUpdater", "CRM.BTGPactual.ClimbDataUpdater\CRM.DataUpdater.csproj", "{D35671EF-2E57-481A-92F9-D689B5F8ACB0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRM.DataUpdater", "CRM.DataUpdater\CRM.DataUpdater.csproj", "{D35671EF-2E57-481A-92F9-D689B5F8ACB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRM.DataUpdater.UI", "Pactual.CRM.DataUpdater.UI\CRM.DataUpdater.UI.csproj", "{5DAAB69D-13BD-459C-B748-D24CA6AA57D3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRM.DataUpdater.UI", "CRM.DataUpdater.UI\CRM.DataUpdater.UI.csproj", "{5DAAB69D-13BD-459C-B748-D24CA6AA57D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
